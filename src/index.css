@@ -31,9 +31,16 @@ h3{
 }
 
 h1{
-font-size: 5vmin;
+font-size: 60px;
+
 color:rgb(26, 25, 25);
 font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+
+h3{
+
+  font-size:35px
 }
 
 .display{
@@ -157,7 +164,7 @@ transition:  transform 2s ease-out
 
 }
 h2{
-  font-size: 3vmin;
+  font-size: 35px;
 }
 
 .comment{
