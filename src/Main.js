@@ -9,7 +9,6 @@ let scissor="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgD-YGvdnKK80
 
 const [player,setPlayer]=useState("");
 
-
 const [com,setCom]=useState("");
 
 const[playerScore,setPlayerScore]=useState(0);
